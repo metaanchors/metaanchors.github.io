@@ -1,9 +1,8 @@
 ---
 title: "윤하의 의식의 흐름: '사건의 지평선' 이후 판단자의 길"
-date: 2026-06-29
+date: 2025-06-29
 categories:
   - Blog
-  - GPT
   - Judgment
 tags:
   - GPT
